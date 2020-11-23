@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/graycen-wheeler/
 organizations:
   - name: University of Colorado Boulder
-    url: ""
+    url: https://www.colorado.edu/biochemistry/
 education:
   courses:
     - course: PhD in Biochemistry (Expected May 2021)
