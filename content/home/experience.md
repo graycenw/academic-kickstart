@@ -18,27 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Host & Producer"
+  company = "Buffs Talk Science"
+  company_url = "https://buffstalkscience.com/"
+  location = "Boulder, CO"
+  date_start = "2018-04-01"
   date_end = ""
-  description = """
+  description = "Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a couple of whiskey sours and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."
+  
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Researching and discussing exciting science stories
+  * Interviewing friendly neighborhood scientists
+  * Editing, producing, and promoting each episode
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Doctoral Student"
+  company = "University of Colorado Boulder"
+  company_url = "https://www.colorado.edu/lab/liu/"
+  location = "Boulder, CO"
+  date_start = "2016-06-01"
+  date_end = ""
+  description = "In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation."
 
 +++
