@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-04-01"
   date_end = ""
-  description = "Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a couple of whiskey sours and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."
+  description = """Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a couple of whiskey sours and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."""
   
   Responsibilities include:
   
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2016-06-01"
   date_end = ""
-  description = "In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation."
+  description = """In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation."""
 
 +++
