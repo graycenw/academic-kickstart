@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a couple of whiskey sours and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."""
+  description = """Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a couple of whiskey sours and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday.
   
   Responsibilities include:
   
