@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/graycen-wheeler/
   - link: https://scholar.google.com/citations?hl=en&user=S37Ek6cAAAAJ
     icon_pack: ai
-    icon: scholar
+    icon: googlescholar
 organizations:
   - name: University of Colorado Boulder
     url: https://www.colorado.edu/biochemistry/
