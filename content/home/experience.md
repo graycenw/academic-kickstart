@@ -1,4 +1,4 @@
-+++
+---
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -42,4 +42,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = """In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation."""
 
-+++
+---
