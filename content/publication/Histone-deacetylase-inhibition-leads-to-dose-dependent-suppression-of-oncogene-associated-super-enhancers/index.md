@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Histone deacetylase inhibition leads to dose-dependent suppression of oncogene-associated super-enhancers"
-authors: [Wheeler GE, Sanchez G, Liu X]
+authors: [Wheeler GE, Sanchez GJ, Liu X]
 date: 2018-04-01
 doi: "https://doi.org/10.1096/fasebj.2018.32.1_supplement.523.13
 "
