@@ -5,7 +5,7 @@ name = "Minimal"
 google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Montserrat"
-body_font = "Merriweather"
-nav_font = "Merriweather"
-mono_font = "Merriweather mono"
+heading_font = "Poppins"
+body_font = "PT Serif"
+nav_font = "PT Serif"
+mono_font = "PT Serif mono"
