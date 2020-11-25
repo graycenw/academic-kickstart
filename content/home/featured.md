@@ -28,7 +28,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "Journal article"
+    publication_type = ""
     author = ""
   
 [design]
