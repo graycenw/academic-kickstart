@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2016-06-01"
   date_end = ""
-  description = """In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation."""
+  description = """In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation. She is a trainee on the NIH-funded Signaling & Cellular Regulation training grant and has served as the primary mentor for two undergraduate reserachers as they worked towards their honors theses."""
 
 +++
