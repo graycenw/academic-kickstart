@@ -53,7 +53,8 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Writer & Managing Editor"
-  company = "Science Buffs" company_url = "https://sciencebuffs.org/"
+  company = "Science Buffs"
+  company_url = "https://sciencebuffs.org/"
   location = "Boulder, CO"
   date_start = "2017-08-15"
   date_end = ""
