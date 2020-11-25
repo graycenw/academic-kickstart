@@ -1,7 +1,7 @@
 ---
 title: Graycen Wheeler
 role: Doctoral candidate, CU Boulder Department of Biochemistry
-avatar_filename: graycenportrait.jpg
+avatar_filename: avatar.jpg
 bio: Graycen Wheeler is a biochemist, a podcast host, a writer, a novice
   mountain biker, an RPG enthusiast, a crossword doer, and a cat person.
 interests: []
