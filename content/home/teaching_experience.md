@@ -23,8 +23,17 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Boulder, CO"
   date_start = "2015-08-15"
-  date_end = "2018-12-15"
+  date_end = "2015-12-15"
   description = """Graycen received the Award for Graduate Teaching Excellence for in 2015."""
+  
+[[experience]]
+  title = "General Chemistry I Graduate Teaching Assistant"
+  company = "University of Colorado Boulder"
+  company_url = ""
+  location = "Boulder, CO"
+  date_start = "2018-08-15"
+  date_end = "2018-12-15"
+  description = ""
 
 [[experience]]
   title = "Advanced Biochemistry: Metabolism Teaching Assistant"
