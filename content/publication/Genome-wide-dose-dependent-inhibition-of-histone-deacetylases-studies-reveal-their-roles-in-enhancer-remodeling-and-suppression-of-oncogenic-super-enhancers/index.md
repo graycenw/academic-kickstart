@@ -16,7 +16,7 @@ publishDate: 2020-11-25T11:26:20-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nucleic Acids Research"
+publication: "<i>Nucleic Acids Research</i>"
 publication_short: ""
 
 abstract: "Histone deacetylase inhibitors (HDACIs) are known to alter gene expression by both up- and down-regulation of protein-coding genes in normal and cancer cells. However, the exact regulatory mechanisms of action remain uncharacterized. Here we investigated genome wide dose-dependent epigenetic and transcriptome changes in response to HDACI largazole in a transformed and a non-transformed cell line. Exposure to low nanomolar largazole concentrations (<GI50) predominantly resulted in upregulation of gene transcripts whereas higher largazole doses (≥GI50) triggered a general decrease in mRNA accumulation. Largazole induces elevation of histone H3 acetylation at Lys-9 and Lys-27 along many gene bodies but does not correlate with up- or down-regulation of the associated transcripts. A higher dose of largazole results in more RNA polymerase II pausing at the promoters of actively transcribed genes and cell death. The most prevalent changes associated with transcriptional regulation occur at distal enhancer elements. Largazole promotes H3K27 acetylation at a subset of poised enhancers and unexpectedly, we also found active enhancers that become decommissioned in a dose and cell type-dependent manner. In particular, largazole decreases RNA polymerase II accumulation at super-enhancers (SEs) and preferentially suppresses SE-driven transcripts that are associated with oncogenic activities in transformed cells."
