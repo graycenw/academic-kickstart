@@ -41,5 +41,9 @@ date_format = "Jan 2006"
   date_start = "2016-06-01"
   date_end = ""
   description = """In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation."""
+  
+  [[experience]] title = "Chair & Lead Organizer" company = "ComSciCon Rocky Mountain West" company_url = "https://comscicon.com/comscicon-rmw-2019" location = "Boulder, CO" date_start = "2018" date_end = "2019" description = """ComSciCon Rocky Mountain West is a regional science communication conference organized entirely by graduate students which prides itself on being entirely free for all attendendees. As the 2019 chair, Graycen led the planning of a two-day conference and received a grant that enabled ComSciCon Rocky Mountain West to expand its service area to reach small colleges and states beyond Colorado."""
+  
+  [[experience]] title = "Writer & Managing Editor" company = "Science Buffs" company_url = "https://sciencebuffs.org/" location = "Boulder, CO" date_start = "2017" date_end = "" description = """Graycen has written and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, since 2017 and has been a senior editor since 2019."""
 
 +++
