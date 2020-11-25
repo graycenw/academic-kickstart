@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Boulder, CO"
   date_start = "2016-01-01"
-  date_end = "2016/05/15"
+  date_end = "2016-05-15"
   description = """"""
   
 [[experience]]
