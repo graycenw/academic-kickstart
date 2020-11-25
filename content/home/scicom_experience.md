@@ -24,14 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a couple of whiskey sours and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday.
-  
-  Responsibilities include:
-  
-  * Researching and discussing exciting science stories
-  * Interviewing friendly neighborhood scientists
-  * Editing, producing, and promoting each episode
-  """
+  description = """Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a glass of wine and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."""
 
 [[experience]]
   title = "Chair Moderator for eSymposia"
@@ -40,14 +33,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2020-07-01"
   date_end = ""
-  description = """Graycen works with chairpeople and organizers of molecular and cellular biology meetings to guide them through the process of chairing a digital symposium.
-  
-    Responsibilities include:
-  
-  * Training chairpeople on the digital platform for eSymposia
-  * Assisting chairpeople with audience interactions during the live meeting
-  * Selecting relevant and exciting questions for chairpeople ot ask speakers from the pool of audience-submitted questions
-  """
+  description = """Graycen works with chairpeople and organizers of molecular and cellular biology meetings to guide them through the process of chairing a digital symposium and facilitate useful and engaging question and answer sessions for each talk."""
   
 [[experience]]
   title = "Chair & Lead Organizer"
@@ -65,6 +51,6 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2017-08-15"
   date_end = ""
-  description = """Graycen has written and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, since 2017 and has been a senior editor since 2019."""
+  description = """Graycen has written and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, since 2017 and has served as a senior editor since 2019."""
 
 +++
