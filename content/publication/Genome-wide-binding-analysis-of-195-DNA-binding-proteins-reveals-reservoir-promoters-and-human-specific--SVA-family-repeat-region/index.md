@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Genome-wide binding analysis of 195 DNA-binding proteins reveals reservoir promoters and human-specific SVA family repeat region"
-authors: [Shehata S, Spradlin S, Swearingen A, Wheeler GE, Das A, Corbet G, Nebenfuehr B, Ahrens D, Tauber D, Lennon S, Choi K, Huynh T, Wieser T, Schnedier K, Bradshaw M, Lai M, Baskin J, Read T, Demasi J, Hynes-Grace M, Timmons D, Smallegan M, Rinn JL]
+authors: [Shehata S, Spradlin S, Swearingen A, Wheeler GE, Das A, Corbet G, Nebenfuehr B, Ahrens D, Tauber D, Lennon S, Choi K, Huynh T, Wieser T, Schneider K, Bradshaw M, Lai M, Baskin J, Read T, Demasi J, Hynes-Grace M, Timmons D, Smallegan M, Rinn JL]
 date: 2020-07-21
 doi: "https://doi.org/10.1101/2020.07.21.213603"
 
