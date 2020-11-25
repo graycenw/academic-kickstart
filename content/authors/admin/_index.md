@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: Graycen Wheeler is a biochemist, a podcast host, a writer, a novice
   mountain biker, an RPG enthusiast, a crossword doer, and a cat person.
 interests:
-  - Biochemistry/molecular biology
-  - podcasting
-  - and science writing
+  - Cancer biology
+  - Podcasting
+  - Science writing
 social:
   - icon: envelope
     icon_pack: fas
