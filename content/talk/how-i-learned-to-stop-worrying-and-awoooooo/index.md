@@ -30,10 +30,10 @@ tags: [goof]
 featured: false
 
 # Featured image
-  image: 
-  caption: ""
-  focal_point: ""
-  preview_only: false
+#  image: 
+#  caption: ""
+#  focal_point: ""
+#  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
