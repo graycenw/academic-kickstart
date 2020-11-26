@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Buffs Talk Science is a podcast on which Graycen and the inimitable Alison Gilchrist sit down with a glass of wine and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."""
+  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."""
 
 [[experience]]
   title = "Chair Moderator for eSymposia"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2020-07-01"
   date_end = ""
-  description = """Graycen works with chairpeople and organizers of molecular and cellular biology meetings to guide them through the process of chairing a digital symposium and facilitate useful and engaging question and answer sessions for each talk."""
+  description = """I work with chairpeople and organizers of molecular and cellular biology meetings to guide them through the process of chairing a digital symposium and facilitate useful and engaging question and answer sessions for each talk."""
   
 [[experience]]
   title = "Chair & Lead Organizer"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-11-01"
   date_end = "2019-10-31"
-  description = """ComSciCon Rocky Mountain West is a regional science communication conference organized entirely by graduate students which prides itself on being entirely free for all attendendees. As the 2019 chair, Graycen led the planning of a two-day conference and received a grant that enabled ComSciCon Rocky Mountain West to expand its service area to reach small colleges and states beyond Colorado."""
+  description = """ComSciCon Rocky Mountain West is a regional science communication conference organized entirely by graduate students which prides itself on being entirely free for all attendendees. As the 2019 chair, I led the planning of a two-day conference and received a grant that enabled ComSciCon Rocky Mountain West to expand its service area to reach small colleges and states beyond Colorado."""
   
 [[experience]]
   title = "Writer & Managing Editor"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2017-08-15"
   date_end = ""
-  description = """Graycen has written and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, since 2017 and has served as a senior editor since 2019."""
+  description = """I have written and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, since 2017 and has served as a senior editor since 2019."""
 
 +++
