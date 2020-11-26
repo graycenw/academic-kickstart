@@ -2,32 +2,32 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "How I Learned to Stop Worrying and Awoooooo"
-event:
-event_url:
-location:
+event: "Ignite Boulder 39"
+event_url: "https://www.youtube.com/watch?v=Sc4XvoSLQzs"
+location: "Chautauqua Auditorium"
 address:
   street:
-  city:
+  city: "Boulder, CO"
   region:
   postcode:
   country:
-summary:
+summary: "A talk about tabletop RPGs and the special privilege of being goofy with a group."
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-25T17:15:22-07:00
-date_end: 2020-11-25T17:15:22-07:00
-all_day: false
+date: 2019-09-19
+# date_end: 2020-11-25T17:15:22-07:00
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-11-25T17:15:22-07:00
 
 authors: []
-tags: []
+tags: [goof]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
