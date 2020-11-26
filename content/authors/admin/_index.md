@@ -37,4 +37,4 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-Graycen Wheeler is a graduate student in the Department of Biochemistry at the University of Colorado Boulder. She hosts and produces [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and Beyond, and she is a managing editor at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. She's good at crossword puzzles and tabletop RPGs but bad at roller skating and beekeeping.
+I'm a graduate student in the Department of Biochemistry at the University of Colorado Boulder. I host and produce [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and Beyond, and am a managing editor at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. I'm good at crossword puzzles and tabletop RPGs but tragically bad at roller skating and beekeeping.
