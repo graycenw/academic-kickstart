@@ -7,8 +7,8 @@ event_url: "https://www.youtube.com/watch?v=Sc4XvoSLQzs"
 location: "Chautauqua Auditorium"
 address:
   street:
-  city: "Boulder, CO"
-  region:
+  city: "Boulder"
+  region: "CO"
   postcode:
   country:
 summary: "A talk about tabletop RPGs and the special privilege of being goofy with a group."
