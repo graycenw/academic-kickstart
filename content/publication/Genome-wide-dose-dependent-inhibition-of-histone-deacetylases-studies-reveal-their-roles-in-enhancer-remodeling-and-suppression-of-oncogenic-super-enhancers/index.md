@@ -24,7 +24,7 @@ abstract: "Histone deacetylase inhibitors (HDACIs) are known to alter gene expre
 # Summary. An optional shortened abstract.
 summary: "Histone deacetylase inhibitors prefererentially suppress expression super-enhancer-driven genes, which are associated with cancer."
 
-tags: []
+tags: [serious work, genomic analysis, Liu lab]
 categories: []
 featured: false
 
