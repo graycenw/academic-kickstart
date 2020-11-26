@@ -1,6 +1,6 @@
 ---
 title: Lampreys Everywhere
-subtitle: A Synopsis and Commentary on 1987 Cinema Classic The Lost Boys
+subtitle: A synopsis and commentary on 1987 cinema classic The Lost Boys
 date: 2020-11-25T18:58:51-07:00
 summary: A synopsis and commentary on 1987 cinema classic The Lost Boys
 draft: false
