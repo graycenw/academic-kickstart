@@ -3,9 +3,9 @@
 
 title: "Lampreys Everywhere a Synopsis and Commentary on 1987 Cinema Classic the Lost Boys"
 subtitle: ""
-summary: ""
-authors: []
-tags: []
+summary: " love this movie, and I love Joel Schumacher."
+authors: [Graycen Wheeler]
+tags: [goof, caustic keyboard, vampyres]
 categories: []
 date: 2020-11-25T18:58:51-07:00
 lastmod: 2020-11-25T18:58:51-07:00
