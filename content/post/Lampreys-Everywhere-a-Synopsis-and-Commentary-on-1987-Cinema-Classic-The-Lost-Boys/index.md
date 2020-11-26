@@ -124,7 +124,7 @@ But you know what? Still kind of cute, honestly. Michael really wants to feast, 
 
 ![Michael screaming, rolling down a sand dune](https://media.giphy.com/media/Xkw9b2OECn2Do7FbUh/giphy.gif)
 
-This is when Michael <i>finally</i> realizes he’s actually a lamprey. It turns out that wanting to bite his brother and floating out the window didn’t tip him off (although Sam figured it out immediately). Or maybe this is just the moment it finally sinks in. But either way, he is devastated.
+This is when Michael <i>finally</i> realizes he’s actually a lamprey. It turns out that wanting to bite his brother and floating out the window didn’t tip him off (although Sam figured it out immediately). Or maybe this is just the moment it finally sinks in. Either way, he is devastated.
 
 He also finds out that Proto-Christine (and some unrelated child she cares about who’s really not important except that his name is Laddie – super dumb) are totally lampreys, but they haven’t drunk anybody’s blood yet either, so they’re not evil. Thus, if the King of the Lampreys gets killed, Michael and Proto-Christine (and Laddie, but who really cares) will be saved, and Kiefer et al. will be donezo. Proto-Christine wants to escape Kiefer’s evil clutches so she can retain her soul and bone Michael on the reg (and also save Laddie, I guess), but she also doesn’t want herself (and Laddie) to be murdered by vengeful lampreys.
 
@@ -160,4 +160,4 @@ Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gil
 
 Reaction shots, then fade to black! The end! What a film!
 
-The verdict is obviously that I loved this movie. I watched it like three total times to write this review. It’s so charming. The men are very attractive but in a very goofy 80s way. The women characters are pretty scarce, but Dianne Wiest is so good, and the whole thing is a twist on a very horrifying and woman-objectifying aspect of Peter Pan that is always played off as cute. It turns out this was written primarily by a woman playwright, which initially surprised me but actually makes a lot of sense. And then there’s obviously Joel Schumacher’s extreme tenderness for outsiders. I love it. I LOVE IT.
+The verdict is obviously that I loved this movie. I watched it like three total times to write this review. It’s so charming. The men are very attractive but in a very goofy 80s way. The women characters are pretty scarce, but Dianne Wiest is so good, and the whole thing is a twist on a very horrifying and objectifying aspect of Peter Pan that is always played off as cute. It turns out this was written primarily by a woman playwright, which initially surprised me but actually makes a lot of sense. And then there’s obviously Joel Schumacher’s extreme tenderness for outsiders. I love it. I LOVE IT.
