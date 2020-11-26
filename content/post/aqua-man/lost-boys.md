@@ -1,10 +1,10 @@
 I watched <i>The Lost Boys</i> towards the end of last year, because it was on the “Leaving HBO this month” list, and it’s one of my mom’s favorite movies. And I was so surprised and delighted by it – it’s very raunchy for my mom’s wheelhouse, but it’s also very sweet and funny and just the right amount of genuinely scary. I had seen bits of it before, but I had no clue how much I would love it. Anyway, I was re-watching it again before HBO took it away at the end of November, and this was the first thing that flashed on screen:
 
-![A Joel Schumacher Film](https://github.com/graycenw/academic-kickstart/master/images/joel.png)
+![A Joel Schumacher Film](https://github.com/graycenw/academic-kickstart/blob/master/images/joel.png)
 
 Huh, I didn’t realize the first time I watched, but this name seemed really familiar. I couldn’t go on not knowing why it seemed familiar, and:
 
-![Joel Schumacher: Director, The Phantom of the Opera (2004)](https://github.com/graycenw/academic-kickstart/master/images/joel2.png)
+![Joel Schumacher: Director, The Phantom of the Opera (2004)](https://github.com/graycenw/academic-kickstart/blob/master/images/joel2.png)
 
 !!! Thank you, Joel, for taking a break from directing the Val Kilmer/George Clooney Batman movies and [the music video for “Kiss from a Rose”](https://www.youtube.com/watch?v=AMD2TwRvuoU) to make two exquisite films. (He also made <i>St. Elmo’s Fire</i>, which is very similar to The Lost Boys in that my mom loves it but deemed it too raunchy for me to watch as a teen. I still haven’t seen it, but last year I had a song stuck in my head for like two weeks and sent a recording of myself humming it to my mom to identify, and it turned out to be [the title song from <i>St. Elmo’s Fire</i>](https://www.youtube.com/watch?v=dx7vNdAb5e4). It’s also in <i>Spider-Man: Into the Spider-Verse</i>, which is probably how it slithered into my head.)
 
@@ -22,17 +22,17 @@ Anyway, Kiefer and a bunch of less-hot-but-still-quite-hot grungy 80s rats hassl
 
 Cut to: a single mom and her two sons singing along to the radio in the car, but in a way where they’re all kind of making fun of each other.
 
-![The Emersons singing in their car](https://github.com/graycenw/academic-kickstart/master/images/Emerson_family.png)
+![The Emersons singing in their car](https://github.com/graycenw/academic-kickstart/blob/master/images/Emerson_family.png)
 
 It’s very sweet, and you can tell they’re all close. The older son (Michael) has a jawline built by God specifically to drive me insane, and you can immediately tell he’s Good because he’s letting his younger brother (Sam) ride shotgun. The actor playing Michael was 21 when this was filmed, so while I am being a creep about his jawline, it’s mostly okay.
 
-![Jason Patric as Michael](https://github.com/graycenw/academic-kickstart/master/images/handsome.png)
+![Jason Patric as Michael](https://github.com/graycenw/academic-kickstart/blob/master/images/handsome.png)
 
 He actually kind of looks like James from <i>Twin Peaks</i> if James wasn’t constantly making his face into upsetting shapes. (I didn’t notice at first, but everyone I pestered about this film pointed out that he looks exactly like Billy from <i>Stranger Things</i>. Which is true to the point that the Duffer brothers might have been directly referencing The Lost Boys when they cast him, especially because there are a fair number of parallels in his storyline.) The mom is played by Dianne Wiest, whom I had never seen in anything but already loved because of [the best cold open on Brooklyn Nine-Nine](https://www.youtube.com/watch?v=38wXlpFPwYo). Sam is like fourteen, maybe, and he wears cool city kid shirts. He’s played by Corey Haim, whose irl story is very tragic. 
 
 Unfortunately, they are moving to Santa Carla, California, the Murder Capital of the World. We get a montage of all the unsavory punks who hang out on the pier, including this woman who is making out with a rat in a way that I don’t care for:
 
-![Woman kissing a rat](https://github.com/graycenw/academic-kickstart/master/images/rat_kiss.png)
+![Woman kissing a rat](https://github.com/graycenw/academic-kickstart/blob/master/images/rat_kiss.png)
 
 Eventually they get to Dianne Wiest’s dad’s house, which is their new home. The grandpa has a terrifying taxidermy room and extreme reverence for TV Guide but no actual TV. He is weird and prickly but only gives off good vibes.
 
@@ -44,19 +44,19 @@ Their first night in Santa Carla, Michael and Sam go to a concert on the pier. H
 
 Anyway, as this transformative performance is going on, Michael locks eyes with someone who is extremely Proto-Christine Daaé from <i>Phantom</i>. There is no way that Joel Schumacher was not thinking of her while they did character design for Christine after she gets sexed up by the Phantom’s boat trip.
 
-![Jami Gertz as Star/Proto-Christine](https://github.com/graycenw/academic-kickstart/master/images/proto_Christine.png)
+![Jami Gertz as Star/Proto-Christine](https://github.com/graycenw/academic-kickstart/blob/master/images/proto_Christine.png)
 
 She makes eyes back at him for a while before turning and full-on running into the crowd. Which is rude concert behavior, to be sure, but Michael doesn’t seem to mind.
 
 Meanwhile, Dianne Wiest is getting a job at a video shop run by Young Richard Gilmore from <i>Gilmore Girls</i>. There are vampires skulking around the video shop, but Richard Gilmore kicks them out. (I’m not 100% when you’re supposed to know that Kiefer et al. are vampires, but it seems pretty apparent from the beginning? A security guard gets supernaturally murdered in the first scene right after a dustup with them. And there’s never like a big reveal – it’s just not directly mentioned for a while.)
 
-![Edward Herrmann as Max/Young Richard Gilmore](https://github.com/graycenw/academic-kickstart/master/images/richard_gilmore.png)
+![Edward Herrmann as Max/Young Richard Gilmore](https://github.com/graycenw/academic-kickstart/blob/master/images/richard_gilmore.png)
 
 Richard Gilmore is pretty clearly a Sensible Hunk for Moms, but he dresses like a square, which is never a good sign in an 80s movie where the protagonists are cool teens and the antagonists are also cool teens. He asks Dianne Wiest out, even though she is his brand new employee! Luckily, she’s into it.
 
 Back to Michael and Sam. Michael is following Proto-Christine, and Sam declares he doesn’t want to be “at the mercy of [Michael’s] sex glands” anymore, so he ducks into a comics shop. His outfit is BONKERS:
 
-![Corey Haim as Sam in his weird duster](https://github.com/graycenw/academic-kickstart/master/images/sam.png)
+![Corey Haim as Sam in his weird duster](https://github.com/graycenw/academic-kickstart/blob/master/images/sam.png)
 
 I couldn’t get a full-length screencap of it (all these shots on the pier are really crowded), so you can’t tell that the beige striped blazer(?) is billowy and floor-length, and I’m pretty sure he’s wearing it over shorts. He meets a pair of young comic book enthusiasts called the Frog brothers. They look like this:
 
@@ -64,7 +64,7 @@ I couldn’t get a full-length screencap of it (all these shots on the pier are 
 
 They make fun of his outfit and question his comics credentials, but he pretty quickly earns their respect by talking about Superman. They give him a copy of a comic book, which I thought was called “Lampries Everywhere” during my entire first watch of this film.
 
-![Lampreys Everywhere!](https://github.com/graycenw/academic-kickstart/master/images/lampreys.png)
+![Lampreys Everywhere!](https://github.com/graycenw/academic-kickstart/blob/master/images/lampreys.png)
 
 The Frog brothers make it clear that Santa Carla is crawling with vampires and that this comic will help Sam survive them, but I was like, “Sweet, so lampries is like a code word for vampires.” It turns out no. And even if that were a code word, it would be spelled “lampreys.” And even if the V on that comic book was an L, it would say “Lampires.” Also, it has vampires on the cover but no lampreys.
 
@@ -80,7 +80,7 @@ He goads Michael into drinking from a very ugly bottle (Proto-Christine tells hi
 
 He wakes up in bed, and he is Transformed. You can tell because he wears sunglasses inside and cracks dark jokes. He also has the stupidest ear piercing and only makes this face:
 
-![Jason Patric as Michael looking very insufferable](https://github.com/graycenw/academic-kickstart/master/images/michael_face.png)
+![Jason Patric as Michael looking very insufferable](https://github.com/graycenw/academic-kickstart/blob/master/images/michael_face.png)
 
 That night, he has to stay home with Sam because their mom is going on a date with Richard Gilmore and worries that Sam is lonely. Michael almost sucks Sam’s blood while Sam is taking a bath, but their dog literally snaps him out of it with her large teeth.
 
@@ -94,7 +94,7 @@ Meanwhile, Sam and the Frog brothers are being much more proactive about solving
 
 Michael then goes to the beach to yell at Kiefer, because he can’t find Proto-Christine. Kiefer is like, “If you ever want to see her again, you have to come feast on some bonfire appreciators.” At the bonfire, Kiefer reveals himself to actually look like this:
 
-![Kiefer Sutherland as David doing a vampiric grimace](https://github.com/graycenw/academic-kickstart/master/images/scary_kiefer.png)
+![Kiefer Sutherland as David doing a vampiric grimace](https://github.com/graycenw/academic-kickstart/blob/master/images/scary_kiefer.png)
 
 But you know what? My mom was still into it, apparently. Michael really wants to feast, but instead, he just screams and rolls down a sand dune.
 
