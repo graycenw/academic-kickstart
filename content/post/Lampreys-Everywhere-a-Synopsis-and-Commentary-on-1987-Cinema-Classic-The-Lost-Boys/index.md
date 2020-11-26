@@ -56,7 +56,7 @@ Unfortunately, they are moving to Santa Carla, California, the Murder Capital of
 
 ![Woman kissing a rat](rat_kiss.png)
 
-Eventually they get to Dianne Wiest’s dad’s house, which is their new home. The grandpa has a terrifying taxidermy room and extreme reverence for TV Guide but no actual TV. He is weird and prickly but only gives off good vibes.
+Eventually they get to Dianne Wiest’s dad’s house, which is their new home. The grandpa has a terrifying taxidermy room and extreme reverence for <i>TV Guide</i> but no actual TV. He is weird and prickly but only gives off good vibes.
 
 Their first night in Santa Carla, Michael and Sam go to a concert on the pier. Hooo buddy, this concert. It features a very oiled man who sings and plays the saxophone. He is wearing nothing but leggings(?), a leather jock/belt thing, a ponytail, and an industrial chain wrapped around his neck several times like a scarf.
 
