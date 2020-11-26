@@ -32,9 +32,9 @@ Huh, I didn’t realize the first time I watched, but this name seemed really fa
 
 Anyway, this <i>Phantom</i> connection made me want to watch and discuss this movie with my best friend, with whom I share a long-running  love of the 2004 <i>Phantom</i> film adaptation. We also exchange movie recaps pretty frequently, so that’s why I initially wrote this. But this bit of trivia also made me feel so much love for my mom – who would have thought that we’d both be weirdly, obsessively enamored with movies that were made by the same director sixteen years apart?
 
-The soundtrack to this film is A JOY. It’s a full 80s-style soundtrack rather than a score, a lot of it made specifically for this movie and therefore specifically about moody vampires. The opening shots over the ocean and a boardwalk are all under the main theme, which sings sexily about sin and features a chorus that’s all air drums and a children’s choir singing the ten commandments. It’s truly a banger, and I listen to it all the time now. AND IT’S NOT EVEN THE BEST SONG ON THE SOUNDTRACK! Not by a longshot!
+The soundtrack to this film is A JOY. It’s a full 80s-style soundtrack rather than a score, a lot of it made specifically for this movie and therefore specifically about moody vampires. The opening shots over the ocean and a boardwalk are all under the main theme, which sings sexily about sin and features a chorus that’s all air drums and what seems to be a church choir singing the ten commandments. It’s truly a banger, and I listen to it all the time now. AND IT’S NOT EVEN THE BEST SONG ON THE SOUNDTRACK! Not by a longshot!
 
-While that plays, we zoom in on a boardwalk full of hot but seedy 80s teens. It’s here that Kiefer Sutherland makes his entrance: 
+While that plays, we zoom in on a boardwalk full of hot but seedy 80s people. It’s here that Kiefer Sutherland makes his entrance: 
 
 ![Kiefer on the boardwalk](https://media.giphy.com/media/0Y8Ryo4Pl5QFnRl47O/giphy.gif)
 
