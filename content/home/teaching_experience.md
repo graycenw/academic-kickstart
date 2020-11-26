@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2015-08-15"
   date_end = "2015-12-15"
-  description = """Graycen received the Award for Graduate Teaching Excellence for in 2015."""
+  description = """I received the Award for Graduate Teaching Excellence for in 2015."""
   
 [[experience]]
   title = "General Chemistry I Graduate Teaching Assistant"
