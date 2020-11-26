@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-04-01"
   date_end = ""
-  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other their favorite science stories before luring a charming & knowledgeable local scientist to their home for dinner and an interview. New episodes every other Wednesday."""
+  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other our favorite recent science stories before luring a charming & knowledgeable local scientist to our home for dinner and an interview. New episodes every other Wednesday."""
 
 [[experience]]
   title = "Chair Moderator for eSymposia"
