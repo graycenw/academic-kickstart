@@ -32,7 +32,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: "featured.png"
+  image: "featured.png"
   caption: "A wolf gives a seminar."
   focal_point: "Center"
   preview_only: false
