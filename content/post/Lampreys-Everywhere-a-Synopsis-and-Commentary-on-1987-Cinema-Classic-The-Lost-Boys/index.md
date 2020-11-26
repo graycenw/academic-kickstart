@@ -114,13 +114,13 @@ Michael confesses to Sam about his bitelust, and Sam notices that Michael’s re
 
 Michael goes to the spooky hotel to confront Kiefer et al., but they’re not there. He and Proto-Christine have angsty, spooky hotel sex. Lots of candles and shots through weird gauzy strips of cloth that are just hanging from the ceiling (It’s actually VERY similar to the Phantom’s lair but with beds that are shaped like beds rather than turkeys).
 
-Meanwhile, Sam and the Frog brothers are being much more proactive about solving Michael’s lamprey problems. They figure that since Michael is only a half-lamprey (i.e., he hasn’t drunk any human blood— the stuff in the ugly bottle was Kiefer’s), they can turn him human again if they kill the King of the Lampreys. They don’t know who that is, but they think it might be Richard Gilmore. I felt so vindicated at this point – I called Richard Gilmore as a lamprey the second I saw his terrible blazer in this film that’s trying to lull you into thinking lampreys always look and dress like dreamy punks à la Kiefer Sutherland! Sam and the Frog brothers invite themselves to the romantic dinner Dianne Wiest is cooking for Richard Gilmore. They feed him extreme garlic and spill holy water on him, but he’s totally fine. Dianne Wiest is <i>mortified</i>, and so was I, because I fell into the same trap as these fourteen-year-olds who think dressing like a square makes you evil.
+The next day, Sam and the Frog brothers are being much more proactive about solving Michael’s lamprey problems. They figure that since Michael is only a half-lamprey (i.e., he hasn’t drunk any human blood— the stuff in the ugly bottle was Kiefer’s), they can turn him human again if they kill the King of the Lampreys. They don’t know who that is, but they think it might be Richard Gilmore. I felt so vindicated at this point – I called Richard Gilmore as a lamprey the second I saw his terrible blazer in this film that’s trying to lull you into thinking lampreys always look and dress like dreamy punks à la Kiefer Sutherland! Sam and the Frog brothers invite themselves to the romantic dinner Dianne Wiest is cooking for Richard Gilmore, which is already kind of tense because Michael was pretty snarky at Richard Gilmore when he showed up. They feed him extreme garlic and spill holy water on him, but he’s totally fine. Dianne Wiest is <i>mortified</i>, and so was I, because I fell into the same trap as these fourteen-year-olds who think dressing like a square makes you evil.
 
-Michael then goes to the beach to yell at Kiefer, because he can’t find Proto-Christine. Kiefer is like, “If you ever want to see her again, you have to come feast on some bonfire appreciators.” At the bonfire, Kiefer reveals himself to actually look like this:
+Michael has skipped this uncomfortable dinner, because he can't find Proto-Christine and needs to go to the beach to yell at Kiefer about it. Kiefer is like, “If you ever want to see her again, you have to come feast on some bonfire appreciators who are having a nice evening at the beach.” At the bonfire, Kiefer reveals himself to actually look like this:
 
 ![Kiefer Sutherland as David doing a vampiric grimace](scary_kiefer.png)
 
-But you know what? My mom was still into it, apparently. Michael really wants to feast, but instead, he just screams and rolls down a sand dune.
+But you know what? Still kind of cute, honestly. Michael really wants to feast, but instead, he just screams and rolls down a sand dune.
 
 ![Michael screaming, rolling down a sand dune](https://media.giphy.com/media/Xkw9b2OECn2Do7FbUh/giphy.gif)
 
@@ -130,9 +130,9 @@ He also finds out that Proto-Christine (and some unrelated child she cares about
 
 Listen, I know the parentheses gag is getting obnoxious. But he shows up almost out of nowhere (although they briefly show us his face on a milk cartoon towards the beginning of the movie), and it’s definitely because somebody gave a note on the script that was like:
 
-> STUDIO EXEC: Are the stakes really high enough if Proto-Christine just wants to escape an abusive relationship and avoid becoming evil?
+> STUDIO EXEC: Are the stakes really high enough if Proto-Christine just wants to escape an unpleasant relationship and avoid becoming evil?
 >
-> WRITERS: …Yes? She also wants to lick Michael’s glorious jawline, which we’ve written into the script even though we haven’t cast the role yet, so that’s a nice little bonus incentive.
+> WRITERS: …Yes? She also wants to spend some time with Michael’s glorious jawline, which we’ve written into the script even though we haven’t cast the role yet, so that’s a nice little bonus incentive.
 >
 > SE: (Pounding his fist on the table) That’s not enough, damn it! No woman’s personal stakes count unless there’s a dumb, useless child for her to take care of! Write one in! Damn it!
 >
@@ -144,7 +144,7 @@ Listen, I know the parentheses gag is getting obnoxious. But he shows up almost 
 
 Ugh. Anyway, Michael is pretty rude to Proto-Christine at this point, but he’s also desperate to help her (and Laddie). The next day, Michael, Sam, and the Frog brothers go to the spooky earthquake hotel, because the lampreys are super weak during the day. While Michael rescues Proto-Christine (and Laddie), Sam and the Frog brothers manage to stake one of Kiefer’s gang members. Kiefer yells “YOU’RE DEAD MEAT” in a way that is actually incredibly sexy, somehow? (ALSO, OH MY GOD I just found out that Kiefer Sutherland was also 21 when this movie came out. I NEVER would have guessed he was under 30. Sorry for leching on these youths.) He almost gets Sam, but Kiefer can’t follow them out into the sun without bursting into flames. Because Michael and Proto-Christine (and Laddie) are only half-lampreys, the sun just makes them extra-sleepy.
 
-But! They only have until the sun goes down before Kiefer et al. can pursue them, so they need to prepare for battle. Sam asks Dianne Wiest for help, but she thinks he’s just trying to embarrass her and sabotage her relationship with Richard Gilmore. So they send their grandpa off on a date and start barricading their home against lampreys. They fill water guns with holy water and garlic. (Laddie stays asleep, because he’s pretty much a McGuffin and doesn’t actively engage in this film at all.) The Frog brothers mention that no two lampreys die the same way. And it’s good they clarified, because the filmmakers did save their entire special effects budget for these lamprey deaths, and they get VERY creative with it.
+But! They only have until the sun goes down before Kiefer et al. can pursue them, so they need to prepare for battle. Sam asks Dianne Wiest for help, but she thinks he’s just trying to embarrass her and sabotage her relationship with Richard Gilmore. So they send their grandpa off on a date to keep him safe and start barricading their home against lampreys. They fill water guns with holy water and garlic. (Laddie stays asleep, because he’s pretty much a McGuffin and doesn’t actively engage in this film at all.) The Frog brothers mention that no two lampreys die the same way. And it’s good they clarified, because the filmmakers did save their entire special effects budget for these lamprey deaths, and they get VERY creative with it.
 
 Anyway, fight fight fight. Very disorienting. The Frog brothers push one of the lampreys into a bath of holy water, Sam electrocutes one with a stereo somehow, and Michael impales Kiefer on the antlers of one of the grandpa’s taxidermy projects. Wow, that was over so fast! What a relief! Right?
 
@@ -154,7 +154,7 @@ Then we get a villain monologue! Richard Gilmore, it turns out, was worried that
 
 So all along it seemed like the title, <i>The Lost Boys</i>, was maybe just talking about the lampreys’ badass little lost souls, but it turns out it’s actually a super weird Peter Pan retelling! But nobody gets to keep their name except for Michael. It’s actually a really good twist!
 
-Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gilmore in a way that does not seem very effective, and then WHAM! The grandpa busts through the wall in his truck, impales Richard Gilmore, and says this iconic line:
+Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gilmore in a way that does not seem very effective, and then WHAM! The grandpa bursts through the wall in his truck, impales Richard Gilmore, and says this iconic line:
 
 ![One thing about living in Santa Carla I never could stomach: all the damn lampreys](https://media.giphy.com/media/2nhVEONmkRnHXmQ7WP/giphy.gif)
 
