@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: michael_face.png
+  
 ---
 I watched <i>The Lost Boys</i> towards the end of last year, because it was on the “Leaving HBO this month” list, and it’s one of my mom’s favorite movies. And I was so surprised and delighted by it – it’s very raunchy for my mom’s wheelhouse, but it’s also very sweet and funny and just the right amount of genuinely scary. I had seen bits of it before, but I had no clue how much I would love it. Anyway, I was re-watching it again before HBO took it away at the end of November, and this was the first thing that flashed on screen:
 
