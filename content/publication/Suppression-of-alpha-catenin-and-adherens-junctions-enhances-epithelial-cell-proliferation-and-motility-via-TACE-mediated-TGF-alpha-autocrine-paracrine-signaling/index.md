@@ -24,7 +24,7 @@ abstract: "Sustained cell migration is essential for wound healing and cancer me
 # Summary. An optional shortened abstract.
 summary: "Perturbation of adherens junctions elevates autocrine TGF-α signaling via TACE. Graycen and Eric are co-first authors on this paper, which is in press at <i>Molecular Biology of the Cell<i>."
 
-tags: []
+tags: [serious work, Liu lab, TACE, cell motility]
 categories: []
 featured: false
 
