@@ -11,8 +11,8 @@ address:
   region: "CO"
   postcode:
   country:
-summary: "A talk about tabletop RPGs and the special privilege of being goofy with a group."
-abstract:
+summary: "A talk about tabletop RPGs and the special privilege of being goofy with a group. Also, this was way before people started howling every day at 8:00 pm; this doesn't have anything to do with that."
+abstract: "[Ignite Boulder](https://igniteboulder.com/) is a night of presentations on a variety of topics – with a twist! Each presentation has 20 slides, that automatically advance after 15 seconds. Ignite events happen all over, but Boulder hosts the largest in the world every 2 or 3 months. I was selected to give a talk about my RPG group and the delights of group catharsis, which ended with the >1000-member audience doing an extremely exhilerating group holler."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
