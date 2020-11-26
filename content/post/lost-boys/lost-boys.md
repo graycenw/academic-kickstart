@@ -131,7 +131,7 @@ So all along it seemed like the title, <i>The Lost Boys</i>, was maybe just talk
 
 Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gilmore in a way that does not seem very effective, and then WHAM! The grandpa busts through the wall in his truck, impales Richard Gilmore, and says this iconic line:
 
-![One thing about living in Santa Carla I never could stomach: all the damn lampreys[(https://gfycat.com/marriedbelovedguernseycow)
+![One thing about living in Santa Carla I never could stomach: all the damn lampreys](https://gfycat.com/marriedbelovedguernseycow)
 
 Reaction shots, then fade to black! The end! What a film!
 
