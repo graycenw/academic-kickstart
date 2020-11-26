@@ -25,7 +25,7 @@ abstract: "In cancer cells, decreased histone acetylation leads to gene expressi
 # Summary. An optional shortened abstract.
 summary: "A poster presentation for the American Society for Biochemistry & Molecular Biology Experimental Biology meeting on Graycen's contribution to Sanchez et al. (2018)."
 
-tags: []
+tags: [serious work, Liu lab, largazole]
 categories: []
 featured: false
 
