@@ -104,6 +104,8 @@ He wakes up in bed, and he is Transformed. You can tell because he wears sunglas
 
 ![Jason Patric as Michael looking very insufferable](michael_face.png)
 
+(This picture is really tiny because between taking all these screenshots and realizing I wanted to post this anywhere, I compressed it so it could be my avatar on Steam.)
+
 That night, he has to stay home with Sam because their mom is going on a date with Richard Gilmore and worries that Sam is lonely. Michael almost sucks Sam’s blood while Sam is taking a bath, but their dog literally snaps him out of it with her large teeth.
 
 Michael confesses to Sam about his bitelust, and Sam notices that Michael’s reflection in their foyer mirror has gone all wishy washy. A lamprey! Sam locks himself in his room and calls the Frog brothers, who are eager to stake Michael. For reasons that remain unclear to me even on re-rewatch, Michael floats to the ceiling and gets sucked out of his bedroom window. Sam has to save him by pulling him inside, and after that Michael is back to being himself and they’re back to being a team.
