@@ -2,38 +2,40 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "How I Learned to Stop Worrying and Awoooooo"
-event: "Ignite Boulder 39"
-event_url: "https://www.youtube.com/watch?v=Sc4XvoSLQzs"
-location: "Chautauqua Auditorium"
+event:
+event_url:
+location:
 address:
   street:
-  city: "Boulder"
-  region: "CO"
+  city:
+  region:
   postcode:
   country:
-summary: "
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-09-19
-# date_end: 2020-11-25T16:54:21-07:00
-# all_day: false
+date: 2020-11-25T17:15:22-07:00
+date_end: 2020-11-25T17:15:22-07:00
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-25T16:54:21-07:00
+publishDate: 2020-11-25T17:15:22-07:00
 
 authors: []
-tags: [goof]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 # Featured image
-#  image: 
-#  caption: ""
-#  focal_point: ""
-#  preview_only: false
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
