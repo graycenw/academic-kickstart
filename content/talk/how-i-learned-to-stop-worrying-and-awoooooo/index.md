@@ -30,7 +30,7 @@ tags: [goof]
 featured: false
 
 # Featured image
-  image: "featured.png"
+  image: {featured.png}
   caption: "A wolf gives a seminar."
   focal_point: "Center"
   preview_only: false
