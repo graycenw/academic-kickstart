@@ -164,6 +164,6 @@ Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gil
 
 Reaction shots, then fade to black! The end! What a film!
 
-The verdict is obviously that I loved this movie. I watched it like three total times to write this review. It’s so charming. The men are very attractive but in a very goofy 80s way. The women characters are pretty scarce, but Dianne Wiest is so good, and the whole thing is a twist on a very horrifying and woman-objectifying aspect of Peter Pan that is always played off as cute. It turns out this was written primarily by a woman playwright, which initially surprised me but actually makes a lot of sense. And then there’s obviously Joel Schumacher’s extreme tenderness for outsiders. I love it. I LOVE IT.
+The verdict is obviously that I loved this movie. I watched it like three total times to write this review. It’s so charming. The men are very attractive but in a very goofy 80s way. The women characters are pretty scarce, but Dianne Wiest is so good, and the whole thing is a twist on a very horrifying and woman-objectifying aspect of Peter Pan that is always played off as cute. It turns out this was written primarily by a woman playwright, which initially surprised me but actually makes a lot of sense. And then there’s obviously Joel Schumacher’s extreme tenderness for outsiders. I love it. I LOVE IT."""
 
 ---
