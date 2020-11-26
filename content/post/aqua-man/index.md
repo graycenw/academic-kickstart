@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lampreys Everywhere"
-subtitle: "A synopsis and commentary on 1987 cinema classic <i>The Lost Boys</i>"
+title: "Lampreys Everywhere: a Synopsis and Commentary on 1987 Cinema Classic <i>The Lost Boys</i>"
+subtitle: ""
 summary: "I love this movie, and I love Joel Schumacher."
 authors: []
 tags: [goof, caustic keyboard, vampyres]
