@@ -134,7 +134,7 @@ Listen, I know the parentheses gag is getting obnoxious. But he shows up almost 
 >
 > WRITERS: …Yes? She also wants to spend some time with Michael’s glorious jawline, which we’ve written into the script even though we haven’t cast the role yet, so that’s a nice little bonus incentive.
 >
-> SE: (Pounding his fist on the table) That’s not enough, damn it! No woman’s personal stakes count unless there’s a dumb, useless child for her to take care of! Write one in! Damn it!
+> SE: (Pounding his fist on the table) That’s not enough, damn it! Her personal stakes count unless there’s a dumb, useless child for her to take care of! Write one in! Damn it!
 >
 > W: Ugh. Any specific details about this child character? Biblical name requests or whatever?
 >
