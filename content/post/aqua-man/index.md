@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lampreys Everywhere: a Synopsis and Commentary on 1987 Cinema Classic <i>The Lost Boys</i>"
+title: "Lampreys Everywhere: a Synopsis and Commentary on 1987 Cinema Classic The Lost Boys"
 subtitle: ""
 summary: "I love this movie, and I love Joel Schumacher."
 authors: []
