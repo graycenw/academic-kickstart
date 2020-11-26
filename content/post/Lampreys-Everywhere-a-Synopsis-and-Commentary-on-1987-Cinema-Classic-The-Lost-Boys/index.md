@@ -62,7 +62,7 @@ Their first night in Santa Carla, Michael and Sam go to a concert on the pier. H
 
 ![The gyrating saxophone man](https://media3.giphy.com/media/IzemcZRcwzXJ6/giphy.gif)
 
-[This](https://www.youtube.com/watch?v=A1dY6OkPb7E) is the best song from the movie, and I have been listening to it constantly. The movie would be worth watching for this scene alone.
+[This is the best song from the movie](https://www.youtube.com/watch?v=A1dY6OkPb7E), and I have been listening to it constantly. The movie would be worth watching for this scene alone.
 
 Anyway, as this transformative performance is going on, Michael locks eyes with someone who is extremely Proto-Christine Daaé from <i>Phantom</i>. There is no way that Joel Schumacher was not thinking of her while they did character design for Christine after she gets sexed up by the Phantom’s boat trip.
 
