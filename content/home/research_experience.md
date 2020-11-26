@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Norman, OK"
   date_start = "2013-12-01"
   date_end = "2015-06-01"
-  description = """As an Honors Research Assistant Program-funded student in the lab of Dr. Ann West, Graycen prepared purified mutant proteins to study the kinetics of the Sln1/Ypd1 hybrid two-component signaling system in yeast."""
+  description = """As an Honors Research Assistant Program-funded student in the lab of Dr. Ann West, I prepared purified mutant proteins to study the kinetics of the Sln1/Ypd1 hybrid two-component signaling system in yeast."""
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2016-06-01"
   date_end = ""
-  description = """In the lab of Xuedong Liu, Graycen has studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation. She is a trainee on the NIH-funded Signaling & Cellular Regulation training grant and has served as the primary mentor for two undergraduate reserachers as they worked towards their honors theses."""
+  description = """In the lab of Xuedong Liu, I've studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation. I am a trainee on the NIH-funded Signaling & Cellular Regulation training grant and have served as the primary mentor for two undergraduate reserachers as they worked towards their honors theses."""
 
 +++
