@@ -77,7 +77,7 @@ Meanwhile, Dianne Wiest is getting a job at a video shop run by Young Richard Gi
 
 Richard Gilmore is pretty clearly a Sensible Hunk for Moms, but he dresses like a square, which is never a good sign in an 80s movie where the protagonists are cool teens and the antagonists are also cool teens. He asks Dianne Wiest out, even though she is his brand new employee! Luckily, she’s into it.
 
-Back to Michael and Sam. Michael is following Proto-Christine, and Sam declares he doesn’t want to be “at the mercy of [Michael’s] sex glands” anymore, so he ducks into a comics shop. His outfit is BONKERS:
+Back to Michael and Sam. Michael is following Proto-Christine, and Sam declares he doesn’t want to be “at the mercy of \[Michael’s] sex glands” anymore, so he ducks into a comics shop. His outfit is BONKERS:
 
 ![Corey Haim as Sam in his weird duster](https://github.com/graycenw/academic-kickstart/blob/master/images/sam.png)
 
@@ -129,17 +129,19 @@ He also finds out that Proto-Christine (and some unrelated child she cares about
 
 Listen, I know the parentheses gag is getting obnoxious. But he shows up almost out of nowhere (although they briefly show us his face on a milk cartoon towards the beginning of the movie), and it’s definitely because somebody gave a note on the script that was like:
 
-STUDIO EXEC: Are the stakes really high enough if Proto-Christine just wants to escape an abusive relationship and avoid becoming evil?
+> STUDIO EXEC: Are the stakes really high enough if Proto-Christine just wants to escape an abusive relationship and avoid becoming evil?
+>
+> WRITERS: …Yes? She also wants to lick Michael’s glorious jawline, which we’ve written into the script even though we haven’t cast the role yet, so that’s a nice little bonus incentive.
+>
+> SE: (Pounding his fist on the table) That’s not enough, damn it! No woman’s personal stakes count unless there’s a dumb, useless child for her to take care of! Write one in! Damn it!
+>
+> W: Ugh. Any specific details about this child character? Biblical name requests or whatever?
+>
+> SE: Just make it a boy, damn it! Nobody’s going to care about a little lassie, daaaaaaamn ittttttttttttttt.
+>
+> W: Cracked it, thanks.
 
-WRITERS: …Yes? She also wants to lick Michael’s glorious jawline, which we’ve written into the script even though we haven’t cast the role yet, so that’s a nice little bonus incentive.
 
-SE: (Pounding his fist on the table) That’s not enough, damn it! No woman’s personal stakes count unless there’s a dumb, useless child for her to take care of! Write one in! Damn it!
-
-W: Ugh. Any specific details about this child character? Biblical name requests or whatever?
-
-SE: Just make it a boy, damn it! Nobody’s going to care about a little lassie, daaaaaaamn ittttttttttttttt.
-
-W: Cracked it, thanks.
 Ugh. Anyway, Michael is pretty rude to Proto-Christine at this point, but he’s also desperate to help her (and Laddie). The next day, Michael, Sam, and the Frog brothers go to the spooky earthquake hotel, because the lampreys are super weak during the day. While Michael rescues Proto-Christine (and Laddie), Sam and the Frog brothers manage to stake one of Kiefer’s gang members. Kiefer yells “YOU’RE DEAD MEAT” in a way that is actually incredibly sexy, somehow? (ALSO, OH MY GOD I just found out that Kiefer Sutherland was also 21 when this movie came out. I NEVER would have guessed he was under 30. Sorry for leching on these youths.) He almost gets Sam, but Kiefer can’t follow them out into the sun without bursting into flames. Because Michael and Proto-Christine (and Laddie) are only half-lampreys, the sun just makes them extra-sleepy.
 
 But! They only have until the sun goes down before Kiefer et al. can pursue them, so they need to prepare for battle. Sam asks Dianne Wiest for help, but she thinks he’s just trying to embarrass her and sabotage her relationship with Richard Gilmore. So they send their grandpa off on a date and start barricading their home against lampreys. They fill water guns with holy water and garlic. (Laddie stays asleep, because he’s pretty much a McGuffin and doesn’t actively engage in this film at all.) The Frog brothers mention that no two lampreys die the same way. And it’s good they clarified, because the filmmakers did save their entire special effects budget for these lamprey deaths, and they get VERY creative with it.
@@ -159,4 +161,3 @@ Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gil
 Reaction shots, then fade to black! The end! What a film!
 
 The verdict is obviously that I loved this movie. I watched it like three total times to write this review. It’s so charming. The men are very attractive but in a very goofy 80s way. The women characters are pretty scarce, but Dianne Wiest is so good, and the whole thing is a twist on a very horrifying and woman-objectifying aspect of Peter Pan that is always played off as cute. It turns out this was written primarily by a woman playwright, which initially surprised me but actually makes a lot of sense. And then there’s obviously Joel Schumacher’s extreme tenderness for outsiders. I love it. I LOVE IT.
-
