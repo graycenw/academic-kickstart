@@ -1,8 +1,8 @@
 ---
-title: "Lampreys Everywhere"
-subtitle: "A Synopsis and Commentary on 1987 Cinema Classic The Lost Boys"
+title: Lampreys Everywhere
+subtitle: A Synopsis and Commentary on 1987 Cinema Classic The Lost Boys
 date: 2020-11-25T18:58:51-07:00
-summary: "A synopsis and commentary on 1987 cinema classic The Lost Boys"
+summary: A synopsis and commentary on 1987 cinema classic The Lost Boys
 draft: false
 featured: false
 authors:
@@ -18,7 +18,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: true
-  
+  filename: featured.png
 ---
 I watched <i>The Lost Boys</i> towards the end of last year, because it was on the “Leaving HBO this month” list, and it’s one of my mom’s favorite movies. And I was so surprised and delighted by it – it’s very raunchy for my mom’s wheelhouse, but it’s also very sweet and funny and just the right amount of genuinely scary. I had seen bits of it before, but I had no clue how much I would love it. Anyway, I was re-watching it again before HBO took it away at the end of November, and this was the first thing that flashed on screen:
 
@@ -82,7 +82,7 @@ Back to Michael and Sam. Michael is following Proto-Christine, and Sam declares 
 
 I couldn’t get a full-length screencap of it (all these shots on the pier are really crowded), so you can’t tell that the beige striped blazer(?) is billowy and floor-length, and I’m pretty sure he’s wearing it over shorts. He meets a pair of young comic book enthusiasts called the Frog brothers. They look like this:
 
-![Corey Feldman and Jamison Newlander as the Frog brothers](https://64.media.tumblr.com/1656d35188c1f85261de212472125af8/tumblr_os9wt3ivLr1ws13fzo4_r1_250.gifv)
+![Corey Feldman and Jamison Newlander as the Frog brothers](https://www.horrorgeeklife.com/wp-content/uploads/2018/10/Frog-Brothers-Funko-Lost-Boys-Funko-Pop-1.jpg)
 
 They make fun of his outfit and question his comics credentials, but he pretty quickly earns their respect by talking about Superman. They give him a copy of a comic book, which I thought was called “Lampries Everywhere” during my entire first watch of this film.
 
