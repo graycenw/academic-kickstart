@@ -24,7 +24,7 @@ abstract: "A key aspect in defining cell state is the complex choreography of DN
 # Summary. An optional shortened abstract.
 summary: "Re-analyzed ENCODE data reveal 1,362 'reservoir' promoters with up to 111 different DNA-binding proteins present but no steady-state RNA expression."
 
-tags: []
+tags: [serious work, genomic analysis]
 categories: []
 featured: false
 
