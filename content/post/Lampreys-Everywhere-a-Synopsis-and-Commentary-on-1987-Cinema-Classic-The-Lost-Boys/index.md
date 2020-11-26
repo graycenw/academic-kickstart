@@ -16,7 +16,7 @@ categories: []
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: true
   filename: featured.png
 ---
