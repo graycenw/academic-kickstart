@@ -1,9 +1,8 @@
 ---
-title: "Lampreys Everywhere: a Synopsis and Commentary on 1987 Cinema Classic
-  The Lost Boys"
-subtitle: ""
+title: "Lampreys Everywhere"
+subtitle: "A Synopsis and Commentary on 1987 Cinema Classic The Lost Boys"
 date: 2020-11-25T18:58:51-07:00
-summary: " love this movie, and I love Joel Schumacher."
+summary: "A Synopsis and Commentary on 1987 Cinema Classic The Lost Boys"
 draft: false
 featured: false
 authors:
