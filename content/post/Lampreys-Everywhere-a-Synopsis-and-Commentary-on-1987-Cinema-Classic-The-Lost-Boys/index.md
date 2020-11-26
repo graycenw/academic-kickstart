@@ -88,7 +88,7 @@ They make fun of his outfit and question his comics credentials, but he pretty q
 
 ![Lampreys Everywhere!](lampreys.png)
 
-The Frog brothers make it clear that Santa Carla is crawling with vampires and that this comic will help Sam survive them, but I was like, “Sweet, so lampries is like a code word for vampires.” It turns out no. And even if that were a code word, it would be spelled “lampreys.” And even if the V on that comic book was an L, it would say “Lampires.” Also, it has vampires on the cover but no lampreys.
+The Frog brothers make it clear that Santa Carla is crawling with vampires and that this comic will help Sam survive them, but I was like, “Sweet, so lampries is like a code word for vampires.” It turns out no. And even if that were a code word, it should be spelled “lampreys.” And even if the V on that comic book was an L, it would say “Lampires.” Also, it has vampires on the cover but no lampreys.
 
 Anyway, he meets back up with Michael, and they see Proto-Christine hop on the back of Kiefer Sutherland’s motorcycle and ride off with his punky moto-gang. Michael looks sad and clenches his beautiful jaw. The next day, he buys a leather jacket (he already has a motorcycle, but it’s definitely more sporty than punky), and just when he’s about to get a Kiefer-style ear piercing from a grimy kiosk on the pier, Proto-Christine shows up and offers to pierce it herself.
 
