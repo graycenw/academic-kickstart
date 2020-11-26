@@ -1,6 +1,6 @@
 ---
 title: Lampreys Everywhere
-subtitle: A synopsis and commentary on 1987 cinema classic The Lost Boys
+subtitle: A Synopsis and Commentary on 1987 Cinema Classic The Lost Boys
 date: 2020-11-25T18:58:51-07:00
 summary: A synopsis and commentary on 1987 cinema classic The Lost Boys
 draft: false
@@ -30,7 +30,7 @@ Huh, I didn’t realize the first time I watched, but this name seemed really fa
 
 !!! Thank you, Joel, for taking a break from directing the Val Kilmer/George Clooney Batman movies and [the music video for “Kiss from a Rose”](https://www.youtube.com/watch?v=AMD2TwRvuoU) to make two exquisite films. (He also made <i>St. Elmo’s Fire</i>, which is very similar to The Lost Boys in that my mom loves it but deemed it too raunchy for me to watch as a teen. I still haven’t seen it, but last year I had a song stuck in my head for like two weeks and sent a recording of myself humming it to my mom to identify, and it turned out to be [the title song from <i>St. Elmo’s Fire</i>](https://www.youtube.com/watch?v=dx7vNdAb5e4). It’s also in <i>Spider-Man: Into the Spider-Verse</i>, which is probably how it slithered into my head.)
 
-Anyway, this <i>Phantom</i> connection made me want to watch and discuss this movie with my best friend, with whom I share a semi-ironic but also entirely sincere love of the Opera Ghost. We exchange movie recaps pretty frequently, so that’s why I initially wrote this. It also made me feel so much love for my mom – who would have thought that we’d both be weirdly obsessed by movies that were made by the same director sixteen years apart?
+Anyway, this <i>Phantom</i> connection made me want to watch and discuss this movie with my best friend, with whom I share a long-running  love of the 2004 <i>Phantom</i> film adaptation. We also exchange movie recaps pretty frequently, so that’s why I initially wrote this. But this bit of trivia also made me feel so much love for my mom – who would have thought that we’d both be weirdly, obsessively enamored with movies that were made by the same director sixteen years apart?
 
 The soundtrack to this film is A JOY. It’s a full 80s-style soundtrack rather than a score, a lot of it made specifically for this movie and therefore specifically about moody vampires. The opening shots over the ocean and a boardwalk are all under the main theme, which sings sexily about sin and features a chorus that’s all air drums and a children’s choir singing the ten commandments. It’s truly a banger, and I listen to it all the time now. AND IT’S NOT EVEN THE BEST SONG ON THE SOUNDTRACK! Not by a longshot!
 
