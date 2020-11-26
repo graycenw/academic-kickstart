@@ -14,7 +14,7 @@ The soundtrack to this film is A JOY. It’s a full 80s-style soundtrack rather 
 
 While that plays, we zoom in on a boardwalk full of hot but seedy 80s teens. It’s here that Kiefer Sutherland makes his entrance: 
 
-![Kiefer on the boardwalk](https://gfycat.com/idealisticsecondhandchrysalis)
+![Kiefer on the boardwalk](https://media.giphy.com/media/0Y8Ryo4Pl5QFnRl47O/giphy.gif)
 
 My mom had a poster of his face in her dorm room. I had seen pictures of him in this movie, but I did not get the attraction until I saw him in motion. He is extremely compelling. This movie was built for the androphile gaze – there is almost never not a very attractive man on screen. Except for during the lighthearted parts about tween vampire hunters, which provide a much-needed breather from the very attractive onscreen men. And even those are probably built for the teenybopper androphile gaze.
 
@@ -98,7 +98,7 @@ Michael then goes to the beach to yell at Kiefer, because he can’t find Proto-
 
 But you know what? My mom was still into it, apparently. Michael really wants to feast, but instead, he just screams and rolls down a sand dune.
 
-![Michael screaming, rolling down a sand dune](https://gfycat.com/advancedfavoritearchaeopteryx)
+![Michael screaming, rolling down a sand dune](https://media.giphy.com/media/Xkw9b2OECn2Do7FbUh/giphy.gif)
 
 This is when Michael <i>finally</i> realizes he’s actually a lamprey. It turns out that wanting to bite his brother and floating out the window didn’t tip him off (although Sam figured it out immediately). He is devastated.
 
@@ -131,7 +131,7 @@ So all along it seemed like the title, <i>The Lost Boys</i>, was maybe just talk
 
 Dianne Wiest is, of course, deeply disturbed. Michael briefly fights Richard Gilmore in a way that does not seem very effective, and then WHAM! The grandpa busts through the wall in his truck, impales Richard Gilmore, and says this iconic line:
 
-![One thing about living in Santa Carla I never could stomach: all the damn lampreys](https://gfycat.com/marriedbelovedguernseycow)
+![One thing about living in Santa Carla I never could stomach: all the damn lampreys](https://media.giphy.com/media/2nhVEONmkRnHXmQ7WP/giphy.gif)
 
 Reaction shots, then fade to black! The end! What a film!
 
