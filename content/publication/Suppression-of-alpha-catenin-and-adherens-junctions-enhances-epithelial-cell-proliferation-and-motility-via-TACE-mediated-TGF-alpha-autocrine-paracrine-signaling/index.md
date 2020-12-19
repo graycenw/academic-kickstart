@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Suppression of alpha-catenin and adherens junctions enhances epithelial cell proliferation and motility via TACE-mediated TGF-alpha autocrine/paracrine signaling"
-authors: [Bunker EN*, Wheeler GE*, Chapnick DA, Liu X]
+authors: [Bunker EN, Wheeler GE, Chapnick DA, Liu X]
 date: 2021-01-01
 doi: ""
 
