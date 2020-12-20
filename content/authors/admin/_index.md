@@ -39,4 +39,4 @@ highlight_name: false
 ---
 I'm a biochemistry graduate student in the [Liu lab](https://www.colorado.edu/lab/liu/) at the University of Colorado Boulder, where I'm currently studying the cell signaling processes that control cell motility in wound healing.
 
-I host and produce [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and Beyond, and am editor in chief at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. I'm good at crossword puzzles and tabletop RPGs but tragically bad at roller skating and beekeeping.
+I host and produce [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and Beyond, and serve as editor in chief at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. I'm good at crossword puzzles and tabletop RPGs but tragically bad at roller skating and beekeeping.
