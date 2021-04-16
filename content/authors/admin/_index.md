@@ -26,7 +26,7 @@ organizations:
     url: https://www.colorado.edu/biochemistry/
 education:
   courses:
-    - course: PhD in Biochemistry, May 2021
+    - course: PhD in Biochemistry, 2021
       institution: University of Colorado Boulder
       year: ""
     - course: BS in Biochemistry
