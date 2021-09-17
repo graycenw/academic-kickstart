@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://www.colorado.edu/lab/liu/"
   location = "Boulder, CO"
   date_start = "2016-06-01"
-  date_end = ""
-  description = """In the lab of Xuedong Liu, I've studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation. I am a trainee on the NIH-funded Signaling & Cellular Regulation training grant and have served as the primary mentor for two undergraduate reserachers as they worked towards their honors theses."""
+  date_end = "2021-07-31"
+  description = """In the lab of Xuedong Liu, I studied the cell signaling axes that control cell motility for wound healing, the expression of a protein involved in cancer drug resistance, the effects of a histone deacetylase inhibitor on super-enhancer activity, and the mechanism of a new drug that modulates fat differentiation. I was a trainee on the NIH-funded Signaling & Cellular Regulation training grant and served as the primary mentor for three undergraduate researchers as they worked towards their honors theses."""
 
 +++
