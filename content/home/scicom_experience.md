@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = "https://buffstalkscience.com/"
   location = "Boulder, CO"
   date_start = "2018-04-01"
-  date_end = ""
-  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other our favorite recent science stories before luring a charming & knowledgeable local scientist to our home for dinner and an interview. New episodes every other Wednesday."""
+  date_end = "2020-12-11"
+  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other our favorite recent science stories before luring a charming & knowledgeable local scientist to our home for dinner and an interview. Listen on Apple Podcasts or wherever; sources and supplementary information available on [our website](https://buffstalkscience.com/)."""
 
 [[experience]]
   title = "Chair Moderator for eSymposia"
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company_url = "https://www.keystonesymposia.org/KS/"
   location = "Boulder, CO"
   date_start = "2020-07-01"
-  date_end = ""
-  description = """I work with chairpeople and organizers of molecular and cellular biology meetings to guide them through the process of chairing a digital symposium and facilitate useful and engaging question and answer sessions for each talk."""
+  date_end = "2021-06-30"
+  description = """I worked with chairpeople and organizers of molecular and cellular biology meetings to guide them through the process of chairing a digital symposium and facilitate useful and engaging question and answer sessions for each talk."""
   
 [[experience]]
   title = "Chair & Lead Organizer"
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = "https://sciencebuffs.org/"
   location = "Boulder, CO"
   date_start = "2017-08-15"
-  date_end = ""
-  description = """I have written and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, since 2017 and has served as a senior editor since 2019."""
+  date_end = "2021-06-30"
+  description = """I wrote and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, from 2017-2021 and served as a senior editor starting in 2019. I was appointed as interim editor in chief from December of 2020 until June of 2021."""
 
 +++
