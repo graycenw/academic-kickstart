@@ -1,6 +1,6 @@
 ---
 title: Graycen Wheeler
-role: Research assistant, Department of Biochemistry
+role: Science writer
 avatar_filename: avatar.png
 bio: Graycen Wheeler is a science writer, a podcast host, a biochemist, a novice
   mountain biker, an RPG enthusiast, a crossword doer, and a cat person.
