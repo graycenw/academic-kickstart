@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-04-01"
   date_end = "2020-12-11"
-  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other our favorite recent science stories before luring a charming & knowledgeable local scientist to our home for dinner and an interview. Listen on Apple Podcasts or wherever; sources and supplementary information available on [our website](https://buffstalkscience.com/)."""
+  description = """Buffs Talk Science is a podcast on which the inimitable [Alison Gilchrist](https://www.alisonrgilchrist.com/) and I sit down with a couple of glasses of wine and tell each other our favorite recent science stories before luring a charming & knowledgeable local scientist to our home for dinner and an interview. Listen wherever you get your podcasts (except Spotify, sorry), and check out sources and supplementary information on [our website](https://buffstalkscience.com/)."""
 
 [[experience]]
   title = "Chair Moderator for eSymposia"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2018-11-01"
   date_end = "2019-10-31"
-  description = """ComSciCon Rocky Mountain West is a regional science communication conference organized entirely by graduate students which prides itself on being entirely free for all attendendees. As the 2019 chair, I led the planning of a two-day conference and received a grant that enabled ComSciCon Rocky Mountain West to expand its service area to reach small colleges and states beyond Colorado."""
+  description = """ComSciCon Rocky Mountain West is a regional science communication conference organized entirely by graduate students which prides itself on being entirely free for all attendendees. As the 2019 chair, I led the planning of a two-day conference and received a grant that enabled ComSciCon Rocky Mountain West to expand its service area to reach small colleges and states beyond Colorado. As an organizer in 2018, I organized a mini-workshop on podcsting and served as the conference's art and materials director."""
   
 [[experience]]
   title = "Writer & Managing Editor"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Boulder, CO"
   date_start = "2017-08-15"
   date_end = "2021-06-30"
-  description = """I wrote and edited pieces for Science Buffs, a graduate student-run CU Boulder STEM blog, from 2017-2021 and served as a senior editor starting in 2019. I was appointed as interim editor in chief from December of 2020 until June of 2021."""
+  description = """I wrote and edited pieces for Science Buffs, a graduate student-run STEM blog at CU Boulder, from 2017-2021 and served as a senior editor starting in 2019. I was appointed as interim editor in chief from December of 2020 until June of 2021."""
 
 +++
