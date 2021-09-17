@@ -19,8 +19,8 @@ social:
     icon_pack: ai
     icon: google-scholar
 organizations:
-  - name: University of Colorado Boulder
-    url: https://www.colorado.edu/biochemistry/
+  - name: University of California, Santa Cruz
+    url: https://scicom.ucsc.edu/students-alumni/index.html
 education:
   courses:
     - course: PhD in Biochemistry, 2021
