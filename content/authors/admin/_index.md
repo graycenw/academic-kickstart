@@ -4,10 +4,7 @@ role: Research assistant, Department of Biochemistry
 avatar_filename: avatar.png
 bio: Graycen Wheeler is a science writer, a podcast host, a biochemist, a novice
   mountain biker, an RPG enthusiast, a crossword doer, and a cat person.
-interests:
-  - Cancer biology
-  - Podcasting
-  - Science writing
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,6 +34,8 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-I'm a biochemistry research assistant in the [Liu lab](https://www.colorado.edu/lab/liu/) at the University of Colorado Boulder, where I'm currently studying the cell signaling processes that control cell motility in epithelial cells. I'm getting ready to head to the University of California, Santa Cruz this fall to pursue a master's degree in Science Communication.
+I'm a science writer and podcaster trying to develop my skills and hone my writerly vibes as a student in the [Science Communication Masters Program](https://scicom.ucsc.edu/) at the University of California, Santa Cruz. I used to be a doctoral student and a research assistant in the [Liu lab](https://www.colorado.edu/lab/liu/) in the [Department of Biochemistry](https://www.colorado.edu/biochemistry/) at the University of Colorado Boulder, where I studied the cell signaling processes that control cell movement in skin cells. I slithered away from there with my PhD in May of 2021.
 
-I host and produce [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and Beyond, and serve as editor in chief at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. I'm good at crossword puzzles and tabletop RPGs but bad at roller skating and beekeeping.
+While at CU, I hosted and produced [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and beyond, and served as editor in chief at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. My first internship via UCSC is with the communications team at SLAC National Accelerator Laboratory at Stanford.
+
+In my personal life, I'm good at crossword puzzles and tabletop RPGs but bad at roller skating and beekeeping. I like action movies with a lot of feelings in them. I have a cat named Helo Wheeler – a handsome but reserved individual. He does not have a website at this time.
