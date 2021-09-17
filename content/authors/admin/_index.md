@@ -34,7 +34,7 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-I'm a science writer and podcaster trying to develop my skills and hone my writerly vibes as a student in the [Science Communication Masters Program](https://scicom.ucsc.edu/) at the University of California, Santa Cruz. I used to be a doctoral student and a research assistant in the [Liu lab](https://www.colorado.edu/lab/liu/) in the [Department of Biochemistry](https://www.colorado.edu/biochemistry/) at the University of Colorado Boulder, where I studied the cell signaling processes that control cell movement in skin cells. I slithered away from there with my PhD in May of 2021.
+I'm a science writer and podcaster trying to develop my skills and hone my writerly vibes as a student in the [Science Communication Masters Program](https://scicom.ucsc.edu/) at the University of California, Santa Cruz. I used to study the cell signaling processes that control skin cells' movement (or lack thereof) in the [Liu lab](https://www.colorado.edu/lab/liu/) in the University of Colorado's [Department of Biochemistry](https://www.colorado.edu/biochemistry/); I slithered away from there with my PhD in May of 2021.
 
 While at CU, I hosted and produced [Buffs Talk Science](https://buffstalkscience.com/), a podcast about science from CU Boulder and beyond, and served as editor in chief at the [Science Buffs](https://sciencebuffs.org/tag/graycen-wheeler/) STEM blog. My first internship via UCSC is with the communications team at SLAC National Accelerator Laboratory at Stanford.
 
